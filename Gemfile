@@ -7,8 +7,9 @@ end
 
 gem 'carrierwave'
 gem 'mini_magick'
-gem 'bootstrap', '~> 4.0.0.beta2.1'
 gem 'jquery-rails'
+gem 'devise'
+gem 'will_paginate', '~> 3.1.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
 # Se utiliza postgresql, no sqlite3
